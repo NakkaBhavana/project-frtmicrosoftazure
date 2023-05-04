@@ -6,7 +6,7 @@ This is a web based application and also a telugu based website in india.It is d
 ### This web based application has been developed for fullfillment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** - https://lively-beach-01f2d9b00.3.azurestaticapps.net/
 **Project Demo Video Link** -
 
 ## Features of the project"GLORY LUXE"
@@ -52,7 +52,9 @@ This is a web based application and also a telugu based website in india.It is d
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/125736078/236189457-262e2b56-36e3-4d9f-b9b5-d9576e835747.png)
 
-
+## Azure technologies used for project
+-Static Web apps
+-Healthbot
 ## Languanges and technologies used
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
