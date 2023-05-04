@@ -7,7 +7,7 @@ This is a web based application and also a telugu based website in india.It is d
 
 
 **Project Link** - https://lively-beach-01f2d9b00.3.azurestaticapps.net/
-**Project Demo Video Link** -
+**Project Demo Video Link** -https://youtu.be/UOEynYDj3Vs
 
 ## Features of the project"GLORY LUXE"
 
